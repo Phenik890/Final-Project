@@ -123,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65f97e16712ce6c40bd60f4b581eb8fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shield: {fileID: 4498658027571038435, guid: b99907ef666be3e42bb8bd7f7b7e85cc, type: 3}
+  shield: {fileID: 5801546138329713083, guid: 2cecca96423234e4380a7c86fcf4c085, type: 3}
   player: 0
 --- !u!114 &3599485246371143743
 MonoBehaviour:
